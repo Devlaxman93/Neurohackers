@@ -1,3 +1,3 @@
 "# Neurohackers" 
 
-Code for the 'binding problem' roject 
+Code for the 'binding problem' project 
