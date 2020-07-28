@@ -1,0 +1,7 @@
+"
+This code estimate significant PCs in a neural population using permutation and bootstrap.
+using whole trial
+ITI eopch
+stim-choice epoch
+choice-feedback epoch
+"
